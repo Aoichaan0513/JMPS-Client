@@ -1,0 +1,21 @@
+name: JMPS
+version: Dev-1.1.0
+main: org.aoichaan0513.jmps.Main
+
+commands:
+  warn:
+  unwarn:
+  mute:
+  unmute:
+  kick:
+  ban:
+  unban:
+  tban:
+  untban:
+  gban:
+  ungban:
+
+  admin:
+  staff:
+  whois:
+  namelookup:

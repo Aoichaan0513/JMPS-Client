@@ -1,0 +1,5 @@
+apiKey: "APIKEY"
+
+permissions:
+  e2b3476a-8e03-4ee9-a9c4-e0bf61641c55:
+    isAdmin: true
